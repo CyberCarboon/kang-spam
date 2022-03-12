@@ -1,6 +1,6 @@
 # kang-spam
 Buat prank temen atau mantan lu>&lt;
-Untuk pengintsalannya:⚡
+Untuk penginstalan nya:⚡
 
 pkg update && pkg upgrade
 
