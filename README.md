@@ -8,7 +8,7 @@ pkg install python
 
 pkg install python2
 
-pkg install requests
+pip install requests
 
 pkg install Bash
 
