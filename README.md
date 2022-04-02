@@ -16,8 +16,10 @@ pkg install git
 
 git clone https://github.com/CyberCarboon/kang-spam
 
+git pull
+
 ls
 
 cd kang-spam
 
-python spam-sms.py
+python spamV2.py
