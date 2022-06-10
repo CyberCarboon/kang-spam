@@ -1,6 +1,13 @@
-# kang-spam
-Buat prank temen atau mantan lu>&lt;
-Untuk penginstalan nya:⚡
+<h1 align="center">
+  SPAMMING
+</h1>
+</div>
+<p align="center">
+  Made With  by <a href="https://github.com/CyberCarboon">Feri Pratama</a>
+</p>
+<p align="center">
+
+## INSTALL
 
 pkg update && pkg upgrade
 
