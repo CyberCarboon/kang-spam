@@ -22,4 +22,8 @@ ls
 
 cd kang-spam
 
-python spamV2.py
+python spam.py
+
+## Example
+ <img src="https://github.com/CyberCarboon/kang-spam/blob/main/exec.jpg" width="440" title="Menu" alt="Menu">
+</p>
